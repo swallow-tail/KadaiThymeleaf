@@ -11,5 +11,4 @@ public class InputController {
         // input.htmlに画面遷移
         return "input";
     }
-
 }
